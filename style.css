@@ -1,0 +1,61 @@
+html{
+    background-color: rgb(245, 245, 148);
+}
+
+
+h1{
+    color: blue;
+    padding-left: 30px;
+}
+h2{
+    color: darkcyan;
+    padding-left: 30px;;
+}
+h3{
+    color: brown;
+    padding-left: 30px;
+}
+h4{
+    color: saddlebrown;
+    padding-left: 30px;
+}
+blockquote{
+    background-color: aquamarine;
+}
+p{
+    color: orange;
+    padding: 10px;
+
+    
+}
+
+.c{
+    color:orangered;
+    padding-left: 20px;
+
+}
+.d{
+    color: palevioletred;
+    padding: 10px;
+}
+caption{
+    color: rgb(231, 22, 22);
+    padding: 10px;
+    size: 70px;
+}
+
+ul{
+    color: rgb(79, 231, 19);
+}
+table{
+    background-color: rgb(201, 137, 161);
+    padding: 10px;
+    
+}
+.a{
+    color: red;
+}
+.b{
+    color: blue;
+}
+
